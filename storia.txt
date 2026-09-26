@@ -1,1 +1,3 @@
-Questa è la storia del nostro museo
+Questa è la storia modificata del nostro museo. 
+
+Siamo alla fase 3. 
